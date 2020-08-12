@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My name is Justin Friestad and this is my Github profile!
+### Here is where I have my various small projects ive worked on, mostly from my summer internship with the IBM CIC in Monroe.
 
 <!--
 **friestad/friestad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
