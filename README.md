@@ -1,10 +1,14 @@
 ### Hi there 👋
 ### My name is Justin Friestad and this is my Github profile!
 ### Here is where I have my various small projects ive worked on, mostly from my summer internship with the IBM CIC in Monroe.
-### Most of my projects are unpolished because they were made in quick sprints to focus on specific skills.
+### Most of my projects are unpolished because they were made in quick sprints to focus on specific skills in a bootcamp.
 ###
-###
-
+### 1. https://github.com/friestad/cic2020interns_wk1 JS/ReactJS Built a basic frontend to consume a COVID API POST endpoint and output the data returned visually.
+### 2. https://github.com/friestad/cic2020interns_wk2 JS/ExpressJS Added an API endpoint to a partial project that returns a country's total percentage of COVID cases.
+### 3. https://github.com/friestad/cic2020interns_wk3 Java/Springboot Built and integrated a comparison controller to deliver a new API endpoint on a partially completed project that was provided to me.
+### 4. https://github.com/friestad/cic2020interns_wk4 C#/.NET/JS A partner and I worked to deliver a proof-of-concept Full-Stack project where on the backend we integrated and injected a full API service and on the frontend we populated charts and table with the data.
+### 5. https://github.com/friestad/cic2020interns_wk5 JS/ReactJS/ExpressJS with PostgreSQL Database hosted on ElephantSQL (The database may be down idk). Built full-stack app to work as a queue manager for breakout rooms to be used in a virtual environment. Also implemented Docker to run the whole system.
+### 6. https://github.com/friestad/oxygen I worked on the front-end of this app. I was part of a five person team and we were given 48 hours. Myself and one other were solely front-end developers for it. We built it with React. It acts as a route-planner for events such as protests for Black Lives Matter. It integrates HERE's maps api to visualize routes and present data to users around them geographically. This is probably my cleanest front-end work I have because I spent all of those 48 hours only working with JavaScript and SCSS polishing components and building utilities to act as functions. We also deployed this to IBM Cloud.
 <!--
 **friestad/friestad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
